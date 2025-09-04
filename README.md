@@ -8,22 +8,20 @@
 
 - 👨‍💻 Learning Focus **👨‍💻 CSS Grid**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=500&lines=🚀+Connect+With+Me;✨+Let's+Shine+and+Code+Together" alt="Typing Animation" />
-</p>
+### 🚀 Connect with me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajatkumaryadav/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin: 0 20px;" />
   </a>
   <a href="https://instagram.com/official_rajat_yadavansi_">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px" style="margin: 0 20px;" />
   </a>
   <a href="mailto:rajatkumaryadav77@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" style="margin: 0 20px;" />
   </a>
   <a href="https://github.com/rajatkumarYadav948">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" style="margin: 0 20px;" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
