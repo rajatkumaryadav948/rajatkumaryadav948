@@ -11,10 +11,10 @@
 ### 🚀 Connect with me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajatkumaryadav/">
+  <a href="www.linkedin.com/in/rajat-kumar-yadav-85a217329">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin: 0 20px;" />
   </a>
-  <a href="https://instagram.com/official_rajat_yadavansi_">
+  <a href="https://instagram.com/official_rajat_yaduvanshi_">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px" style="margin: 0 20px;" />
   </a>
   <a href="mailto:rajatkumaryadav77@gmail.com">
