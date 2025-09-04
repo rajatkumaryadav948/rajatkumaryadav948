@@ -17,9 +17,6 @@
   <a href="https://instagram.com/official_rajat_yaduvanshi_">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px" style="margin: 0 20px;" />
   </a>
-  <a href="mailto:rajatkumaryadav77@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" style="margin: 0 20px;" />
-  </a>
   <a href="https://github.com/rajatkumarYadav948">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" style="margin: 0 20px;" />
   </a>
