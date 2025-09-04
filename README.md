@@ -14,16 +14,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajatkumaryadav/">
-    <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
   </a>
   <a href="https://instagram.com/official_rajat_yadavansi_">
-    <img src="https://img.shields.io/badge/Instagram-FF073A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px"/>
   </a>
   <a href="mailto:rajatkumaryadav77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
   </a>
   <a href="https://github.com/rajatkumarYadav948">
-    <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
