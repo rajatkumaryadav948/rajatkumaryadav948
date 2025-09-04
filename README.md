@@ -12,6 +12,8 @@
 <p align="left">
 <a href="https://fb.com/rajat yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/official_rajat_yaduvanshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_rajat_yaduvanshi_" height="30" width="40" /></a>
+  ### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatkumaryadav/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
